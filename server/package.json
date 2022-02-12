@@ -1,0 +1,21 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "dependencies": {
+    "async": "^3.2.3",
+    "clone": "^2.1.2",
+    "express": "^4.17.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.4.1",
+    "unique-names-generator": "^4.6.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
